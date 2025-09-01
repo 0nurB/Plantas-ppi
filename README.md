@@ -52,22 +52,27 @@ Além da validação em múltiplas espécies, o modelo foi utilizado para minera
 
 ## Participantes
 
-* Bruno Rafael Florentino
+* Bruno Rafael Florentino  
 
-* **Contato:** brunorf1204@usp.br
+**Contato:** brunorf1204@usp.br  
+
+---
+
+## Rode no Google Colab  
+
+Está em progresso uma versão dos arquivos para rodar diretamente no **Google Colab**, online e sem necessidade de instalar o Python localmente.
 
 
-## Rode no Google Cobab
-Em progresso uma versão dos arquivos para rodar pelo Google Colab, online e sem necessidade de instação da linguagem python localmente.
+
 
 
 ## Rode localmente
 
-### Instale a dependencias e pacotes
+### Instale as dependências e pacotes
 
-#### Via miniconda (Terminal)
+#### Via Miniconda (Terminal)
 
-Baixando os dados e dependencias:
+Baixando os dados e dependências:
 
 ```sh
 $ git clone https://github.com/0nurB/BioPredictionPPI.git Plantas-ppi
@@ -76,7 +81,7 @@ $ cd Plantas-ppi
 
 ```
 
-**1 - Install Miniconda:** 
+**1 - Instale Miniconda:** 
 
 ```sh
 
@@ -92,7 +97,7 @@ $ export PATH=~/miniconda3/bin:$PATH
 
 ```
 
-**2 - Create environment:**
+**2 - Crie o ambiente:**
 
 ```sh
 
@@ -100,7 +105,7 @@ conda env create -f ambiente_base.yml
 
 ```
 
-**3 - Activate environment:**
+**3 - Ative o ambiente:**
 
 ```sh
 
@@ -115,6 +120,6 @@ Existem dois arquivos tipo jupter notebook para serem utilizados:
 - performance_testes.ipynb : para dados rotulados, permite mensurar performance em qualquer conjunto de dados, contém um exemplo completo de como utilizar.
 
 
-## Citation
+## Citação
 
 Em processo de finalização para submissão a revista...
