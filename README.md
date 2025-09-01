@@ -19,20 +19,26 @@
 <h1 align="center"></h1>
 
 
-## Main
+## Principal
 
-Esse projeto faz parte uma série de estudos sobre predição de interações proteínas-proteínas, buscando agilizar sua descoberta. Esse projeto tem dois pilares, desenvolver modelos que respeitem as necessidades do Sul Global, especialmente a América do Sul, bem como modelos de IA acessiveis, sem grande intervenções manuais para aplicação (aspecto ainda em andamento para o modelo de PPI no clado Viridiplantae).
+Este projeto faz parte de uma série de estudos sobre predição de interações proteína-proteína (PPIs), buscando agilizar sua descoberta. Ele possui dois pilares:  
+1. Desenvolver modelos que atendam às necessidades do Sul Global, especialmente da América do Sul;  
+2. Criar modelos de IA acessíveis, que demandem pouca intervenção manual para aplicação (aspecto ainda em andamento para o modelo de PPI no clado **Viridiplantae**).
 
-Com esse modelo, vamos propor o Brazilian Repositorium For Protein-Protein Interactions (BRFPPI), primeiro banco de PPIs minerados por IA brasileiro. O maior objetivo dessa base é reunir a maior quantidade de interações de proteínas da fauna e flora da América do Sul, oferecendo suporte para melhorar os bancos genéticos da biodiversidade unica dessa região. A partir desse banco genético pode ser realizado estudos sobre melhoramento genéticos de plantas para enfrentar mudanças climáticas e tentar aumentar a produtividade agricula dessa região, visando o combate da insegurança alimentar.
+Com esse modelo, propomos o **Brazilian Repositorium For Protein-Protein Interactions (BRFPPI)**, o primeiro banco brasileiro de PPIs minerados por IA. O principal objetivo dessa base é reunir a maior quantidade possível de interações de proteínas da fauna e flora da América do Sul, oferecendo suporte para aprimorar bancos genéticos da biodiversidade única dessa região. A partir desse repositório, podem ser realizados estudos de melhoramento genético de plantas para enfrentar mudanças climáticas e aumentar a produtividade agrícola, visando o combate à insegurança alimentar.
 
-* No melhor do nosso conhecimento é o modelo mais bem validado do estado-da-arte para para predição binária de PPIs;
-  -  Inclui validação por conceitos evolutivos e por estrutura de proteína, sendo realizado em espécies de todo o domínio de eucariotos.
-  -  Propoe métodos de comparação estrutural integrados na validação.
-  -  Propoe estimativa da fração de verdadeiros positivos em novas amostras para estudar o desbalanceio de classes.
-     -  Primeiro modelo a estimar a precisão no mundo real (amostras aleatórias)
-* Mineração de 3M de interações de muita alta probabilidade para plantas e algas, incluindo espécies que derivam o arroz, feijão, soja, mandioca, café, laranja, kiwi, maça, banana e diversos cerais.
+* No melhor do nosso conhecimento, este é o modelo mais bem validado do estado da arte para predição binária de PPIs;  
+  - Inclui validação por conceitos evolutivos e por estrutura de proteína, abrangendo espécies de todo o domínio Eukaryota.  
+  - Propõe métodos de comparação estrutural integrados à validação.  
+  - Apresenta estimativa da fração de verdadeiros positivos em novas amostras, permitindo estudar o desbalanceamento de classes.  
+    - Primeiro modelo a estimar a **precisão no mundo real** (amostras aleatórias).  
 
-* Esse projeto faz parte de um projeto maior o AutoIA-Pandemics que visa desenvolver aplicações de IA que possam auxiliar no estudo de pandemias.
+* Mineração de **3 milhões de interações de muito alta probabilidade** para plantas e algas, incluindo espécies de importância agrícola como arroz, feijão, soja, mandioca, café, laranja, kiwi, maçã, banana e diversos cereais.  
+
+* Este projeto faz parte de uma iniciativa maior, o **AutoIA-Pandemics**, que visa desenvolver aplicações de IA para auxiliar no estudo de pandemias.  
+
+* As interações mineradas no artigo podem ser acessadas em:  
+   [Google Drive - BRFPPI](https://drive.google.com/drive/folders/1giwBwA-OgdLy0V_FuLLZjDoqxpJhKvyR?usp=drive_link)
 
 
 ## Resumo
