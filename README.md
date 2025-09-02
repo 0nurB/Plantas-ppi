@@ -130,6 +130,6 @@ Em processo de finalização para submissão a revista...
 * Outros estudos de interação de proteínas do mesmo autor são:
   - [BioPrediction-RPI](https://www.sciencedirect.com/science/article/pii/S2001037024001776): ferramenta automatiza para gerar modelos para predição para interações RNA-proteína. A primeira versão desse estudo ficou em segundo lugar do SBCAS 2024 na categória iniciação científica, além de ter sido apresentada no Prototypes for Humanity em 2023 em Dubai (Emirados Árabes).
  
-  - [Bioprediction-PPI](https://gua.soutron.net/Portal/Default/en-GB/RecordView/Index/3202): ferramenta automatizada para gerar modelos para predição para interações proteína-proteína. A primeira versão venceu como o "vencedor global" na categória de ciências da computação no Undergraduted Awards 2024, sendo apresentada em Dublin (Irlanda). A Versão atualizada ainda em processo de revisão para publicação. 
+  - [BioPrediction-PPI](https://gua.soutron.net/Portal/Default/en-GB/RecordView/Index/3202): ferramenta automatizada para gerar modelos para predição para interações proteína-proteína. A primeira versão venceu como o "vencedor global" na categória de ciências da computação no Undergraduted Awards 2024, sendo apresentada em Dublin (Irlanda). A Versão atualizada ainda em processo de revisão para publicação. 
     
   - Mapeamento sistemático de ferramentas para predição de PPIs: processo de submissão para revista.
