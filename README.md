@@ -35,10 +35,16 @@ Com esse modelo, propomos o **Brazilian Repositorium For Protein-Protein Interac
 
 * Mineração de **3 milhões de interações de muito alta probabilidade** para plantas e algas, incluindo espécies de importância agrícola como arroz, feijão, soja, mandioca, café, laranja, kiwi, maçã, banana e diversos cereais.  
 
-* Este projeto faz parte de uma iniciativa maior, o **AutoIA-Pandemics**, que visa desenvolver aplicações de IA para auxiliar no estudo de pandemias.  
-
 * As interações mineradas no artigo podem ser acessadas em:  
    [Google Drive - BRFPPI](https://drive.google.com/drive/folders/1giwBwA-OgdLy0V_FuLLZjDoqxpJhKvyR?usp=drive_link)
+
+* Outros estudos de interação de proteínas do mesmo autor são:
+  - [BioPrediction-RPI](https://www.sciencedirect.com/science/article/pii/S2001037024001776): ferramenta automatiza para gerar modelos para predição para interações RNA-proteína.
+  - [Bioprediction-PPI](https://gua.soutron.net/Portal/Default/en-GB/RecordView/Index/3202): ferramenta automatizada para gerar modelos para predição para interações proteína-proteína. Versão atualizada ainda em processo de revisão para publicação.
+  - Mapeamento sistemático de ferramentas para predição de PPIs: processo de submissão para revista.
+
+
+* Este projeto faz parte de uma iniciativa maior, o **AutoIA-Pandemics**, que visa desenvolver aplicações de IA para auxiliar no estudo de pandemias.
 
 
 ## Resumo
