@@ -7,7 +7,7 @@
 <h4 align="center">Descoberta de redes de interações proteína-proteína em plantas: uma abordagem para inovação no melhoramento genético e estudo da biodiversidade da America do Sul</h4>
 
 <h4 align="center">Explorando a Biodiversidade da América do Sul</h4>
-
+mui
 <p align="center">
   <a href="https://github.com/0nurB/Plantas-ppi">Entrada</a> •
   <a href="http://autoaipandemics.icmc.usp.br">AutoAI-Pandemics</a> •
@@ -33,7 +33,7 @@ Com esse modelo, propomos o **Brazilian Repositorium For Protein-Protein Interac
   - Apresenta estimativa da fração de verdadeiros positivos em novas amostras, permitindo estudar o desbalanceamento de classes.  
     - Primeiro modelo a estimar a **precisão no mundo real** (amostras aleatórias).  
 
-* Mineração de **3 milhões de interações de muito alta probabilidade** para plantas e algas, incluindo espécies de importância agrícola como arroz, feijão, soja, mandioca, café, laranja, kiwi, maçã, banana e diversos cereais.  
+* Mineração de **3 milhões de interações de altíssima probabilidade** para plantas e algas, incluindo espécies de importância agrícola como arroz, feijão, soja, mandioca, café, laranja, kiwi, maçã, banana e diversos cereais.  
 
 * As interações mineradas no artigo podem ser acessadas em:  
    [Google Drive - BRFPPI](https://drive.google.com/drive/folders/1giwBwA-OgdLy0V_FuLLZjDoqxpJhKvyR?usp=drive_link)
