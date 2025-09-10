@@ -7,7 +7,7 @@
 <h4 align="center">Descoberta de redes de interações proteína-proteína em plantas: uma abordagem para inovação no melhoramento genético e estudo da biodiversidade da America do Sul</h4>
 
 <h4 align="center">Explorando a Biodiversidade da América do Sul</h4>
-mui
+
 <p align="center">
   <a href="https://github.com/0nurB/Plantas-ppi">Entrada</a> •
   <a href="http://autoaipandemics.icmc.usp.br">AutoAI-Pandemics</a> •
